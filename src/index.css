@@ -1,0 +1,16 @@
+
+* {
+    background-color: #181818;
+    line-height: 2rem;
+    scroll-behavior: smooth;
+    overflow: hidden;
+}
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0;
+    background: transparent;
+}
